@@ -235,13 +235,12 @@ Frontend Developer from Moscow 🚋
 
 ## ☄️ Contact
 
-- 🐦 &nbsp;**[VK](https://vk.com/mjbaron)**
 - ✈️ &nbsp;**[Telegram](https://t.me/Mjburbon)**
 - 🚀 &nbsp;**[Github](https://github.com/IgorGoryany)**
 
 <br>
 
-- 🔭 I’m currently working on ...
+
 <!--
 **IgorGoryany/IgorGoryany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
