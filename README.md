@@ -1,4 +1,4 @@
-# 👋 :wave: Ку, ку, чатланин! I'm Goryany Igor
+# 👋 Ку, ку, чатланин! I'm Goryany Igor
 
 <div>
 </div>
@@ -17,6 +17,8 @@ Frontend Developer from Moscow 🚋
 <br>
 
 ## [Projects 📦]()
+
+<br>
 
 <h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
 
