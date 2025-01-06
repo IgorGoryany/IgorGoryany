@@ -7,7 +7,7 @@
 
 Frontend Developer from Moscow 🚋
 
-- 🏢 &nbsp;I'm work in SberDevices
+- 🏢 &nbsp;I'm looking for job
 - ✈️ &nbsp;Let's talk more in **[Telegram](https://t.me/Mjburbon)**
 
 <br>
